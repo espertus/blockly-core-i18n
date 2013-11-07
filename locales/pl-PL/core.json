@@ -268,7 +268,7 @@
     "PROCEDURES_DEF_DUPLICATE_WARNING": "Warning: This function has duplicate parameters.",
     "PROCEDURES_HIGHLIGHT_DEF": "Highlight function definition",
     "PROCEDURES_IFRETURN_TOOLTIP": "If a value is true, then return a second value.",
-    "PROCEDURES_IFRETURN_WARNING": "Warning: This block may be used only within a function definition."
+    "PROCEDURES_IFRETURN_WARNING": "Warning: This block may be used only within a function definition.",
     "PROCEDURES_MUTATORARG_TITLE": "input name:",
     "PROCEDURES_MUTATORCONTAINER_TITLE": "inputs",
     "REMOVE_COMMENT": "Remove Comment",
@@ -345,5 +345,5 @@
     "VARIABLES_SET_HELPURL": "http://code.google.com/p/blockly/wiki/Variables#Set",
     "VARIABLES_SET_TAIL": "to",
     "VARIABLES_SET_TITLE": "set",
-    "VARIABLES_SET_TOOLTIP": "Sets this variable to be equal to the input.",
+    "VARIABLES_SET_TOOLTIP": "Sets this variable to be equal to the input."
 }

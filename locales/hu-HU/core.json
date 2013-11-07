@@ -216,7 +216,7 @@
     "PROCEDURES_DEF_DUPLICATE_WARNING": "Figyelem: Az elj\u00e1r\u00e1sban azonos elnevez\u00e9s\u0171 param\u00e9tert adt\u00e1l meg.",
     "PROCEDURES_HIGHLIGHT_DEF": "Elj\u00e1r\u00e1s kiemel\u00e9se",
     "PROCEDURES_IFRETURN_TOOLTIP": "Ha az \u00e9rt\u00e9k igaz, akkor visszat\u00e9r a f\u00fcggv\u00e9ny \u00e9rt\u00e9k\u00e9vel.",
-    "PROCEDURES_IFRETURN_WARNING": "Figyelem: Ez a blokk csak elj\u00e1r\u00e1son bel\u00fcl haszn\u00e1lhat\u00f3."
+    "PROCEDURES_IFRETURN_WARNING": "Figyelem: Ez a blokk csak elj\u00e1r\u00e1son bel\u00fcl haszn\u00e1lhat\u00f3.",
     "PROCEDURES_MUTATORARG_TITLE": "v\u00e1ltoz\u00f3:",
     "PROCEDURES_MUTATORCONTAINER_TITLE": "param\u00e9terek",
     "REMOVE_COMMENT": "Megjegyz\u00e9s t\u00f6l\u00e9se",
@@ -278,5 +278,5 @@
     "VARIABLES_SET_CREATE_GET": "Create \"get %1\"",
     "VARIABLES_SET_TAIL": "",
     "VARIABLES_SET_TITLE": "",
-    "VARIABLES_SET_TOOLTIP": "A v\u00e1ltoz\u00f3nak adhatunk \u00e9rt\u00e9ket.",
+    "VARIABLES_SET_TOOLTIP": "A v\u00e1ltoz\u00f3nak adhatunk \u00e9rt\u00e9ket."
 }

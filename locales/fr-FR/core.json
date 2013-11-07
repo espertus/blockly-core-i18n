@@ -238,7 +238,7 @@
     "PROCEDURES_DEF_DUPLICATE_WARNING": "Attention : Cette fonction a des param\u00e8tres dupliqu\u00e9s.",
     "PROCEDURES_HIGHLIGHT_DEF": "Surligner la d\u00e9finition de la fonction",
     "PROCEDURES_IFRETURN_TOOLTIP": "Si une valeur est vraie, alors renvoyer une seconde valeur.",
-    "PROCEDURES_IFRETURN_WARNING": "Attention : Ce bloc pourrait n\u2019\u00eatre utilis\u00e9 que dans une d\u00e9finition de fonction."
+    "PROCEDURES_IFRETURN_WARNING": "Attention : Ce bloc pourrait n\u2019\u00eatre utilis\u00e9 que dans une d\u00e9finition de fonction.",
     "PROCEDURES_MUTATORARG_TITLE": "nom de l\u2019entr\u00e9e :",
     "PROCEDURES_MUTATORCONTAINER_TITLE": "entr\u00e9es",
     "REMOVE_COMMENT": "Supprimer un commentaire",
@@ -297,5 +297,5 @@
     "VARIABLES_SET_CREATE_GET": "Cr\u00e9er 'obtenir %1'",
     "VARIABLES_SET_TAIL": "\u00e0",
     "VARIABLES_SET_TITLE": "fixer",
-    "VARIABLES_SET_TOOLTIP": "Fixe cette variable pour qu\u2019elle soit \u00e9gale \u00e0 la valeur de l\u2019entr\u00e9e.",
+    "VARIABLES_SET_TOOLTIP": "Fixe cette variable pour qu\u2019elle soit \u00e9gale \u00e0 la valeur de l\u2019entr\u00e9e."
 }

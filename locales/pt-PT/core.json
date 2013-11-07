@@ -226,7 +226,7 @@
     "PROCEDURES_DEF_DUPLICATE_WARNING": "Aten\u00e7\u00e3o: Esta fun\u00e7\u00e3o tem par\u00e2metros duplicados.",
     "PROCEDURES_HIGHLIGHT_DEF": "Destacar defini\u00e7\u00e3o de procedimento",
     "PROCEDURES_IFRETURN_TOOLTIP": "Se o valor \u00e9 verdadeiro, ent\u00e3o retorna um valor.",
-    "PROCEDURES_IFRETURN_WARNING": "Aten\u00e7\u00e3o: Este bloco s\u00f3 pode ser utilizado dentro da defini\u00e7\u00e3o de uma fun\u00e7\u00e3o."
+    "PROCEDURES_IFRETURN_WARNING": "Aten\u00e7\u00e3o: Este bloco s\u00f3 pode ser utilizado dentro da defini\u00e7\u00e3o de uma fun\u00e7\u00e3o.",
     "PROCEDURES_MUTATORARG_TITLE": "nome da entrada:",
     "PROCEDURES_MUTATORCONTAINER_TITLE": "entradas",
     "REMOVE_COMMENT": "Remover Coment\u00e1rio",
@@ -285,5 +285,5 @@
     "VARIABLES_SET_CREATE_GET": "Criar \"obter %1\"",
     "VARIABLES_SET_TAIL": "para",
     "VARIABLES_SET_TITLE": "definir",
-    "VARIABLES_SET_TOOLTIP": "Define esta vari\u00e1vel para o valor informado.",
+    "VARIABLES_SET_TOOLTIP": "Define esta vari\u00e1vel para o valor informado."
 }

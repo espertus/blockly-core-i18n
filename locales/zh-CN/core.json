@@ -128,7 +128,7 @@
     "PROCEDURES_CALLNORETURN_CALL": "\u7a7a\u767d",
     "PROCEDURES_CALLNORETURN_HELPURL": "http://zh.wikipedia.org/wiki/\u5b50\u7a0b\u5e8f",
     "PROCEDURES_CALLRETURN_HELPURL": "http://zh.wikipedia.org/wiki/\u5b50\u7a0b\u5e8f",
-    "PROCEDURES_CREATE_DO": "\u521b\u5efa'%1'"
+    "PROCEDURES_CREATE_DO": "\u521b\u5efa'%1'",
     "PROCEDURES_DEFNORETURN_DO": "\u7a7a\u767d",
     "PROCEDURES_DEFNORETURN_HELPURL": "http://zh.wikipedia.org/wiki/\u5b50\u7a0b\u5e8f",
     "PROCEDURES_DEFNORETURN_PROCEDURE": "\u505a\u70b9\u4ec0\u4e48",
@@ -183,5 +183,5 @@
     "VARIABLES_SET_CREATE_GET": "\u521b\u5efa'\u83b7\u5f97%1'",
     "VARIABLES_SET_HELPURL": "http://code.google.com/p/blockly/wiki/Variables#Set",
     "VARIABLES_SET_TAIL": "\u81f3",
-    "VARIABLES_SET_TITLE": "\u8bbe\u7f6e",
+    "VARIABLES_SET_TITLE": "\u8bbe\u7f6e"
 }

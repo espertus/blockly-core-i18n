@@ -116,7 +116,7 @@
     "NEW_VARIABLE": "Nieuwe variabele...",
     "NEW_VARIABLE_TITLE": "Nieuwe variabelenaam:",
     "PROCEDURES_CALLNORETURN_HELPURL": "https://nl.wikipedia.org/wiki/Subprogramma",
-    "PROCEDURES_CALLRETURN_HELPURL": "https://nl.wikipedia.org/wiki/Subprogramma"
+    "PROCEDURES_CALLRETURN_HELPURL": "https://nl.wikipedia.org/wiki/Subprogramma",
     "REMOVE_COMMENT": "Opmerking verwijderen",
     "RENAME_VARIABLE": "Variabele hernoemen...",
     "RENAME_VARIABLE_TITLE": "Alle variabelen \"%1\" hernoemen naar:",
@@ -129,5 +129,5 @@
     "TEXT_CHARAT_INPUT_INTEXT": "in tekst",
     "TEXT_CHARAT_LAST": "haal laatste letter op",
     "TEXT_TEXT_HELPURL": "https://nl.wikipedia.org/wiki/String_%28informatica%29",
-    "VARIABLES_DEFAULT_NAME": "item",
+    "VARIABLES_DEFAULT_NAME": "item"
 }

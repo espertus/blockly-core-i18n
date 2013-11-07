@@ -226,7 +226,7 @@
     "PROCEDURES_DEF_DUPLICATE_WARNING": "Attenzione\u02d0 Questa funzione ha parametri duplicati.",
     "PROCEDURES_HIGHLIGHT_DEF": "Evidenzia definizione di funzione",
     "PROCEDURES_IFRETURN_TOOLTIP": "Se un valore \u00e8 vero allora restituisce un secondo valore.",
-    "PROCEDURES_IFRETURN_WARNING": "Attenzione\u02d0 Questo blocco pu\u00f2 essere usato solo all'interno di una definizione di funzione."
+    "PROCEDURES_IFRETURN_WARNING": "Attenzione\u02d0 Questo blocco pu\u00f2 essere usato solo all'interno di una definizione di funzione.",
     "PROCEDURES_MUTATORARG_TITLE": "nome input\u02d0",
     "PROCEDURES_MUTATORCONTAINER_TITLE": "input",
     "REMOVE_COMMENT": "Rimuovi commento",
@@ -285,5 +285,5 @@
     "VARIABLES_SET_CREATE_GET": "Crea 'prendi %1'",
     "VARIABLES_SET_TAIL": "a",
     "VARIABLES_SET_TITLE": "imposta",
-    "VARIABLES_SET_TOOLTIP": "Imposta questa variabile ad essere pari all'input.",
+    "VARIABLES_SET_TOOLTIP": "Imposta questa variabile ad essere pari all'input."
 }

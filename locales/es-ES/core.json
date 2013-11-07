@@ -226,7 +226,7 @@
     "PROCEDURES_DEF_DUPLICATE_WARNING": "Advertencia: Esta funci\u00f3n tiene par\u00e1metros duplicados.",
     "PROCEDURES_HIGHLIGHT_DEF": "Destacar definici\u00f3n de la funci\u00f3n",
     "PROCEDURES_IFRETURN_TOOLTIP": "Si el valor es verdadero, entonces devuelve un segundo valor.",
-    "PROCEDURES_IFRETURN_WARNING": "Advertencia: Este bloque solo puede ser utilizado dentro de la definici\u00f3n de una funci\u00f3n."
+    "PROCEDURES_IFRETURN_WARNING": "Advertencia: Este bloque solo puede ser utilizado dentro de la definici\u00f3n de una funci\u00f3n.",
     "PROCEDURES_MUTATORARG_TITLE": "nombre de entrada:",
     "PROCEDURES_MUTATORCONTAINER_TITLE": "entradas",
     "REMOVE_COMMENT": "Eliminar comentario",
@@ -285,5 +285,5 @@
     "VARIABLES_SET_CREATE_GET": "Crear 'obtener %1'",
     "VARIABLES_SET_TAIL": "a",
     "VARIABLES_SET_TITLE": "establece",
-    "VARIABLES_SET_TOOLTIP": "Establece esta variable para que sea igual a la entrada.",
+    "VARIABLES_SET_TOOLTIP": "Establece esta variable para que sea igual a la entrada."
 }
