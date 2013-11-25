@@ -177,7 +177,7 @@
   "MATH_CONSTANT_HELPURL":"http:\/\/zh.wikipedia.org\/wiki\/数学常数",
   "MATH_CONSTANT_TOOLTIP":"返回的常见常量之一： π (3.141......)，e (2.718...)、 φ (1.618...)、 sqrt(2) (1.414......)、 sqrt(½) (0.707......) 或 ∞ （无穷大）。",
   "MATH_CONSTRAIN_HELPURL":"http:\/\/en.wikipedia.org\/wiki\/Clamping_%28graphics%29",
-  "MATH_CONSTRAIN_TITLE":"constrain %1 low %2 high %3",
+  "MATH_CONSTRAIN_TITLE":"限制%1在%2和%3之间",
   "MATH_CONSTRAIN_TOOLTIP":"约束一个数字在指定界限（含） 之间。",
   "MATH_DIVISION_SYMBOL":"÷",
   "MATH_IS_DIVISIBLE_BY":"除以",
